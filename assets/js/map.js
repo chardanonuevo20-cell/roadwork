@@ -1,3 +1,4 @@
+
 (() => {
     const mapElement = document.getElementById('study-road-map');
     const dataElement = document.getElementById('study-road-map-data');
@@ -24,7 +25,7 @@
     }
 
     if (!Array.isArray(data.features) || data.features.length === 0) {
-        statusMessage.textContent = 'Verified OpenStreetMap road geometry is not available for the current study roads.';
+        statusMessage.textContent = 'No mapped study-road geometry is available. Road-segment boundaries have not been verified against official LGU records.';
         statusMessage.hidden = false;
         return;
     }
@@ -182,8 +183,8 @@
         const road = roadById.get(roadId);
         return {
             color: colors[road.state] ?? colors.clear,
-            weight: selected ? 11 : 9,
-            opacity: selected ? 1 : 0.92,
+            weight: selected ? 8 : 6,
+            opacity: 1,
             lineCap: 'round',
             lineJoin: 'round'
         };
@@ -192,8 +193,8 @@
     function casingStyle(selected) {
         return {
             color: '#ffffff',
-            weight: selected ? 19 : 16,
-            opacity: 0.96,
+            weight: selected ? 10 : 8,
+            opacity: 0.9,
             lineCap: 'round',
             lineJoin: 'round'
         };
@@ -234,10 +235,17 @@
         });
         casing.addTo(map);
 
-        const highlight = L.geoJSON(feature, {
-            pane: 'study-road-highlight',
-            style: () => styleFor(roadId, roadId === Number(data.selectedRoadId))
-        });
+    const highlight = L.geoJSON(feature, {
+        pane: 'study-road-highlight',
+        interactive: true,
+        style: () => ({
+            color: colors[road.state] ?? colors.clear,
+            weight: 6,
+            opacity: 1,
+            lineCap: 'round',
+            lineJoin: 'round'
+        })
+    });
         highlight.on('click', () => selectRoad(roadId));
         studyBounds.extend(highlight.getBounds());
         highlight.addTo(map);
@@ -250,12 +258,12 @@
     if (studyBounds.isValid()) {
         map.fitBounds(studyBounds, { padding: [6, 6], maxZoom: 16 });
     } else {
-        statusMessage.textContent = 'No verified study-road geometry is available to display.';
+        statusMessage.textContent = 'No valid study-road geometry is available to display. Check the GeoJSON and road-to-feature mappings.';
         statusMessage.hidden = false;
     }
 
     tileLayer.on('tileerror', () => {
-        statusMessage.textContent = 'OpenStreetMap tiles could not be loaded. Verified road geometry and details remain available.';
+        statusMessage.textContent = 'OpenStreetMap tiles could not be loaded. Locally stored study-road geometry may still display, but its official boundaries remain unverified.';
         statusMessage.hidden = false;
     });
 

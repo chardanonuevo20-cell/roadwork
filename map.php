@@ -1,3 +1,4 @@
+
 <?php
 require_once __DIR__ . '/includes/auth.php';
 requireLogin();
@@ -126,7 +127,7 @@ require __DIR__ . '/includes/header.php';
     <section class="page-heading">
         <div>
             <h1>Road Map</h1>
-            <p>Selected study roads highlighted using geographic road data.</p>
+            <p>Study-road geometry is provisional and has not yet been verified against official LGU road-segment records.</p>
         </div>
     </section>
 
@@ -137,7 +138,7 @@ require __DIR__ . '/includes/header.php';
         <span class="map-legend-item"><i class="map-legend-swatch map-state--ongoing"></i>Ongoing Work</span>
     </section>
 
-    <p class="map-data-note">Study roads highlighted using geographic road data.</p>
+    <p class="map-data-note">Development map: highlighted OpenStreetMap segments are provisional. Confirm road names and segment boundaries against official LGU records before treating them as verified.</p>
     <div class="map-status-message" id="map-status-message" role="status" aria-live="polite" hidden></div>
 
     <section class="map-layout">
@@ -149,7 +150,7 @@ require __DIR__ . '/includes/header.php';
         <aside class="card map-details" id="selected-road-panel" aria-live="polite">
             <?php if ($selectedRoad === null): ?>
                 <h2>Selected Road</h2>
-                <p class="map-muted-note">No verified road geometry is currently available for the study roads.</p>
+                <p class="map-muted-note">No mapped study-road geometry is currently available. Road geometry remains provisional until checked against official LGU records.</p>
             <?php else: ?>
                 <div class="map-details-heading">
                     <span class="map-panel-kicker">Selected road</span>
