@@ -1,0 +1,31 @@
+@import url("base.css");
+
+.main-hero {
+    max-width:760px;
+    margin:8vh auto 0;
+    text-align:center
+}
+.main-hero .eyebrow {
+    display:inline-block;
+    margin-bottom:14px;
+    color:var(--muted);
+    font-size:12px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:.12em
+}
+.main-hero h1 {
+    font-size:clamp(30px,5vw,44px);
+    letter-spacing:-.04em;
+    margin-bottom:14px
+}
+.main-hero p {
+    max-width:620px;
+    margin:0 auto 26px;
+    font-size:15px
+}
+.main-actions {
+    display:flex;
+    justify-content:center;
+    gap:10px
+}

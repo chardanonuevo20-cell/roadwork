@@ -1,0 +1,31 @@
+@import url("base.css");
+
+.auth-shell {
+    min-height:calc(100vh - 66px);
+    display:grid;
+    place-items:center
+}
+.auth-card {
+    width:min(420px,100%);
+    padding:30px
+}
+.auth-heading {
+    margin-bottom:24px
+}
+.auth-heading h1 {
+    margin-bottom:6px
+}
+.auth-form {
+    display:grid;
+    gap:8px
+}
+.auth-form label {
+    margin-top:4px;
+    color:var(--text);
+    font-size:12px;
+    font-weight:600
+}
+.auth-form .button {
+    width:100%;
+    margin-top:8px
+}

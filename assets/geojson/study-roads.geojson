@@ -1,0 +1,1987 @@
+{
+    "type":  "FeatureCollection",
+    "name":  "Dasmarinas study road geometry",
+    "attribution":  "© OpenStreetMap contributors",
+    "license":  "Open Database License (ODbL)",
+    "features":  [
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  561748257,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/561748257"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9388408,
+                                                                  14.3318497
+                                                              ],
+                                                              [
+                                                                  120.9388652,
+                                                                  14.3317795
+                                                              ],
+                                                              [
+                                                                  120.9390234,
+                                                                  14.3311992
+                                                              ],
+                                                              [
+                                                                  120.9392932,
+                                                                  14.3302491
+                                                              ],
+                                                              [
+                                                                  120.9393218,
+                                                                  14.3301443
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  561754733,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/561754733"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.939397,
+                                                                  14.3301666
+                                                              ],
+                                                              [
+                                                                  120.9393179,
+                                                                  14.3304373
+                                                              ],
+                                                              [
+                                                                  120.9393013,
+                                                                  14.3305024
+                                                              ],
+                                                              [
+                                                                  120.9392398,
+                                                                  14.3307029
+                                                              ],
+                                                              [
+                                                                  120.9391877,
+                                                                  14.3308745
+                                                              ],
+                                                              [
+                                                                  120.9391822,
+                                                                  14.3308942
+                                                              ],
+                                                              [
+                                                                  120.9390885,
+                                                                  14.3312265
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  639571400,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/639571400"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9390885,
+                                                                  14.3312265
+                                                              ],
+                                                              [
+                                                                  120.9389617,
+                                                                  14.331668
+                                                              ],
+                                                              [
+                                                                  120.938949,
+                                                                  14.3317121
+                                                              ],
+                                                              [
+                                                                  120.938925,
+                                                                  14.3317971
+                                                              ],
+                                                              [
+                                                                  120.9389052,
+                                                                  14.331867
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  639571408,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/639571408"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9393218,
+                                                                  14.3301443
+                                                              ],
+                                                              [
+                                                                  120.9393548,
+                                                                  14.3300185
+                                                              ],
+                                                              [
+                                                                  120.9393888,
+                                                                  14.3299015
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  639571409,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/639571409"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9393888,
+                                                                  14.3299015
+                                                              ],
+                                                              [
+                                                                  120.9394392,
+                                                                  14.3297325
+                                                              ],
+                                                              [
+                                                                  120.9394933,
+                                                                  14.3295493
+                                                              ],
+                                                              [
+                                                                  120.939535,
+                                                                  14.3294132
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "aguinaldo-downtown",
+                                            "osm_way_id":  639571410,
+                                            "osm_name":  "Aguinaldo Highway",
+                                            "highway":  "trunk",
+                                            "ref":  "419",
+                                            "source_area":  "Poblacion / Zone 1-B",
+                                            "source":  "https://www.openstreetmap.org/way/639571410"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9396221,
+                                                                  14.329388
+                                                              ],
+                                                              [
+                                                                  120.9395184,
+                                                                  14.3297438
+                                                              ],
+                                                              [
+                                                                  120.9394981,
+                                                                  14.3298183
+                                                              ],
+                                                              [
+                                                                  120.939397,
+                                                                  14.3301666
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  26437105,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/26437105"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9376564,
+                                                                  14.3504046
+                                                              ],
+                                                              [
+                                                                  120.9377116,
+                                                                  14.3503822
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  544451794,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/544451794"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9384221,
+                                                                  14.3504991
+                                                              ],
+                                                              [
+                                                                  120.9385595,
+                                                                  14.3505223
+                                                              ],
+                                                              [
+                                                                  120.9389307,
+                                                                  14.3505478
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  544451796,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/544451796"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9378635,
+                                                                  14.3503815
+                                                              ],
+                                                              [
+                                                                  120.9383163,
+                                                                  14.3504734
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  544451798,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/544451798"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9378627,
+                                                                  14.3504759
+                                                              ],
+                                                              [
+                                                                  120.9378378,
+                                                                  14.350471
+                                                              ],
+                                                              [
+                                                                  120.9377516,
+                                                                  14.3504539
+                                                              ],
+                                                              [
+                                                                  120.9377127,
+                                                                  14.3504446
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  544451800,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/544451800"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9384136,
+                                                                  14.3505894
+                                                              ],
+                                                              [
+                                                                  120.9381858,
+                                                                  14.3505459
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  557710888,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/557710888"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9412448,
+                                                                  14.3506216
+                                                              ],
+                                                              [
+                                                                  120.9420353,
+                                                                  14.3506618
+                                                              ],
+                                                              [
+                                                                  120.9422858,
+                                                                  14.3506746
+                                                              ],
+                                                              [
+                                                                  120.9423643,
+                                                                  14.3506891
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  561748208,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/561748208"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9377127,
+                                                                  14.3504446
+                                                              ],
+                                                              [
+                                                                  120.9376578,
+                                                                  14.3504437
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  561748209,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/561748209"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9377116,
+                                                                  14.3503822
+                                                              ],
+                                                              [
+                                                                  120.9377488,
+                                                                  14.350376
+                                                              ],
+                                                              [
+                                                                  120.9378635,
+                                                                  14.3503815
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  574637574,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/574637574"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9429808,
+                                                                  14.3510746
+                                                              ],
+                                                              [
+                                                                  120.9429168,
+                                                                  14.3510455
+                                                              ],
+                                                              [
+                                                                  120.9427181,
+                                                                  14.3509515
+                                                              ],
+                                                              [
+                                                                  120.9424414,
+                                                                  14.3508141
+                                                              ],
+                                                              [
+                                                                  120.942333,
+                                                                  14.3507689
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  574637575,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/574637575"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.941234,
+                                                                  14.3506987
+                                                              ],
+                                                              [
+                                                                  120.9407168,
+                                                                  14.3506757
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  585745280,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/585745280"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9383163,
+                                                                  14.3504734
+                                                              ],
+                                                              [
+                                                                  120.9384221,
+                                                                  14.3504991
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  585745281,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/585745281"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9381858,
+                                                                  14.3505459
+                                                              ],
+                                                              [
+                                                                  120.9378627,
+                                                                  14.3504759
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865411,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865411"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9389307,
+                                                                  14.3505478
+                                                              ],
+                                                              [
+                                                                  120.9392935,
+                                                                  14.3505531
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865412,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865412"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9389275,
+                                                                  14.3506292
+                                                              ],
+                                                              [
+                                                                  120.9385541,
+                                                                  14.3506067
+                                                              ],
+                                                              [
+                                                                  120.9384136,
+                                                                  14.3505894
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865413,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865413"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9392935,
+                                                                  14.3505531
+                                                              ],
+                                                              [
+                                                                  120.9398261,
+                                                                  14.3505729
+                                                              ],
+                                                              [
+                                                                  120.9399442,
+                                                                  14.3505739
+                                                              ],
+                                                              [
+                                                                  120.9402194,
+                                                                  14.350587
+                                                              ],
+                                                              [
+                                                                  120.9402626,
+                                                                  14.3505891
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865414,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865414"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9392922,
+                                                                  14.3506345
+                                                              ],
+                                                              [
+                                                                  120.9389275,
+                                                                  14.3506292
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865415,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865415"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9402626,
+                                                                  14.3505891
+                                                              ],
+                                                              [
+                                                                  120.9404887,
+                                                                  14.3505942
+                                                              ],
+                                                              [
+                                                                  120.9406308,
+                                                                  14.3505974
+                                                              ],
+                                                              [
+                                                                  120.9407172,
+                                                                  14.3505994
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865416,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865416"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9402623,
+                                                                  14.3506652
+                                                              ],
+                                                              [
+                                                                  120.9402154,
+                                                                  14.3506632
+                                                              ],
+                                                              [
+                                                                  120.9399417,
+                                                                  14.3506517
+                                                              ],
+                                                              [
+                                                                  120.9392922,
+                                                                  14.3506345
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865417,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865417"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9407172,
+                                                                  14.3505994
+                                                              ],
+                                                              [
+                                                                  120.9412448,
+                                                                  14.3506216
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865418,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865418"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9407168,
+                                                                  14.3506757
+                                                              ],
+                                                              [
+                                                                  120.9406291,
+                                                                  14.3506743
+                                                              ],
+                                                              [
+                                                                  120.9405022,
+                                                                  14.3506714
+                                                              ],
+                                                              [
+                                                                  120.9403422,
+                                                                  14.3506672
+                                                              ],
+                                                              [
+                                                                  120.9402623,
+                                                                  14.3506652
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865419,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865419"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9423643,
+                                                                  14.3506891
+                                                              ],
+                                                              [
+                                                                  120.9424927,
+                                                                  14.3507288
+                                                              ],
+                                                              [
+                                                                  120.9427585,
+                                                                  14.3508688
+                                                              ],
+                                                              [
+                                                                  120.9429519,
+                                                                  14.3509726
+                                                              ],
+                                                              [
+                                                                  120.9430153,
+                                                                  14.3510065
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  619865420,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/619865420"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.942333,
+                                                                  14.3507689
+                                                              ],
+                                                              [
+                                                                  120.9422763,
+                                                                  14.3507591
+                                                              ],
+                                                              [
+                                                                  120.9420316,
+                                                                  14.3507449
+                                                              ],
+                                                              [
+                                                                  120.941234,
+                                                                  14.3506987
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  872354768,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/872354768"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9433288,
+                                                                  14.3512368
+                                                              ],
+                                                              [
+                                                                  120.9429808,
+                                                                  14.3510746
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "salitran-proper",
+                                            "osm_way_id":  1026898327,
+                                            "osm_name":  "Jose Abad Santos Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Salitran 2",
+                                            "source":  "https://www.openstreetmap.org/way/1026898327"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9430153,
+                                                                  14.3510065
+                                                              ],
+                                                              [
+                                                                  120.9433582,
+                                                                  14.3511784
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  426714698,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/426714698"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9805811,
+                                                                  14.2905605
+                                                              ],
+                                                              [
+                                                                  120.9805702,
+                                                                  14.2907523
+                                                              ],
+                                                              [
+                                                                  120.9805683,
+                                                                  14.2908097
+                                                              ],
+                                                              [
+                                                                  120.9805724,
+                                                                  14.290875
+                                                              ],
+                                                              [
+                                                                  120.9805809,
+                                                                  14.2909297
+                                                              ],
+                                                              [
+                                                                  120.9805908,
+                                                                  14.2909806
+                                                              ],
+                                                              [
+                                                                  120.9805993,
+                                                                  14.2910335
+                                                              ],
+                                                              [
+                                                                  120.9806015,
+                                                                  14.2910797
+                                                              ],
+                                                              [
+                                                                  120.9805993,
+                                                                  14.2911272
+                                                              ],
+                                                              [
+                                                                  120.9805927,
+                                                                  14.2911755
+                                                              ],
+                                                              [
+                                                                  120.9805828,
+                                                                  14.2912224
+                                                              ],
+                                                              [
+                                                                  120.9805712,
+                                                                  14.291266
+                                                              ],
+                                                              [
+                                                                  120.9805548,
+                                                                  14.291306
+                                                              ],
+                                                              [
+                                                                  120.9805351,
+                                                                  14.2913394
+                                                              ],
+                                                              [
+                                                                  120.9805086,
+                                                                  14.2913732
+                                                              ],
+                                                              [
+                                                                  120.9804771,
+                                                                  14.2914069
+                                                              ],
+                                                              [
+                                                                  120.9803872,
+                                                                  14.2915077
+                                                              ],
+                                                              [
+                                                                  120.9803564,
+                                                                  14.2915461
+                                                              ],
+                                                              [
+                                                                  120.980322,
+                                                                  14.2915917
+                                                              ],
+                                                              [
+                                                                  120.9802975,
+                                                                  14.2916371
+                                                              ],
+                                                              [
+                                                                  120.980284,
+                                                                  14.2916802
+                                                              ],
+                                                              [
+                                                                  120.9802821,
+                                                                  14.2917243
+                                                              ],
+                                                              [
+                                                                  120.9802907,
+                                                                  14.2917638
+                                                              ],
+                                                              [
+                                                                  120.980307,
+                                                                  14.2918087
+                                                              ],
+                                                              [
+                                                                  120.9803341,
+                                                                  14.2918583
+                                                              ],
+                                                              [
+                                                                  120.9803646,
+                                                                  14.2919056
+                                                              ],
+                                                              [
+                                                                  120.9804005,
+                                                                  14.2919539
+                                                              ],
+                                                              [
+                                                                  120.9804808,
+                                                                  14.2920483
+                                                              ],
+                                                              [
+                                                                  120.9805309,
+                                                                  14.2921062
+                                                              ],
+                                                              [
+                                                                  120.9805741,
+                                                                  14.2921682
+                                                              ],
+                                                              [
+                                                                  120.9806013,
+                                                                  14.292232
+                                                              ],
+                                                              [
+                                                                  120.9806128,
+                                                                  14.2922939
+                                                              ],
+                                                              [
+                                                                  120.9806133,
+                                                                  14.2923586
+                                                              ],
+                                                              [
+                                                                  120.9806015,
+                                                                  14.2924223
+                                                              ],
+                                                              [
+                                                                  120.9805593,
+                                                                  14.2925848
+                                                              ],
+                                                              [
+                                                                  120.9805573,
+                                                                  14.2926222
+                                                              ],
+                                                              [
+                                                                  120.9805654,
+                                                                  14.2926624
+                                                              ],
+                                                              [
+                                                                  120.9805846,
+                                                                  14.292709199999999
+                                                              ],
+                                                              [
+                                                                  120.9808359,
+                                                                  14.2931982
+                                                              ],
+                                                              [
+                                                                  120.9808795,
+                                                                  14.293306
+                                                              ],
+                                                              [
+                                                                  120.9809141,
+                                                                  14.2934023
+                                                              ],
+                                                              [
+                                                                  120.9809419,
+                                                                  14.293513
+                                                              ],
+                                                              [
+                                                                  120.980959,
+                                                                  14.2936515
+                                                              ],
+                                                              [
+                                                                  120.9809827,
+                                                                  14.2940399
+                                                              ],
+                                                              [
+                                                                  120.9809913,
+                                                                  14.2940814
+                                                              ],
+                                                              [
+                                                                  120.9810034,
+                                                                  14.2941229
+                                                              ],
+                                                              [
+                                                                  120.9810193,
+                                                                  14.2941557
+                                                              ],
+                                                              [
+                                                                  120.9810421,
+                                                                  14.2941869
+                                                              ],
+                                                              [
+                                                                  120.9810781,
+                                                                  14.2942222
+                                                              ],
+                                                              [
+                                                                  120.9811128,
+                                                                  14.294253
+                                                              ],
+                                                              [
+                                                                  120.9811497,
+                                                                  14.2942793
+                                                              ],
+                                                              [
+                                                                  120.9811911,
+                                                                  14.2943058
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  426714778,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/426714778"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9808141,
+                                                                  14.2946547
+                                                              ],
+                                                              [
+                                                                  120.9808661,
+                                                                  14.2944869
+                                                              ],
+                                                              [
+                                                                  120.9808838,
+                                                                  14.2944191
+                                                              ],
+                                                              [
+                                                                  120.9808972,
+                                                                  14.2943609
+                                                              ],
+                                                              [
+                                                                  120.9809051,
+                                                                  14.2942928
+                                                              ],
+                                                              [
+                                                                  120.9809076,
+                                                                  14.2942155
+                                                              ],
+                                                              [
+                                                                  120.9809062,
+                                                                  14.2941801
+                                                              ],
+                                                              [
+                                                                  120.9809017,
+                                                                  14.2940634
+                                                              ],
+                                                              [
+                                                                  120.9808756,
+                                                                  14.29366
+                                                              ],
+                                                              [
+                                                                  120.9808559,
+                                                                  14.2935285
+                                                              ],
+                                                              [
+                                                                  120.9808326,
+                                                                  14.2934269
+                                                              ],
+                                                              [
+                                                                  120.9807982,
+                                                                  14.2933191
+                                                              ],
+                                                              [
+                                                                  120.9807558,
+                                                                  14.2932218
+                                                              ],
+                                                              [
+                                                                  120.9805244,
+                                                                  14.2927627
+                                                              ],
+                                                              [
+                                                                  120.9804925,
+                                                                  14.2926978
+                                                              ],
+                                                              [
+                                                                  120.9804809,
+                                                                  14.2926649
+                                                              ],
+                                                              [
+                                                                  120.9804743,
+                                                                  14.292632
+                                                              ],
+                                                              [
+                                                                  120.9804701,
+                                                                  14.2925971
+                                                              ],
+                                                              [
+                                                                  120.9804727,
+                                                                  14.2925671
+                                                              ],
+                                                              [
+                                                                  120.9805198,
+                                                                  14.2923495
+                                                              ],
+                                                              [
+                                                                  120.9805215,
+                                                                  14.2923115
+                                                              ],
+                                                              [
+                                                                  120.9805178,
+                                                                  14.2922749
+                                                              ],
+                                                              [
+                                                                  120.9805063,
+                                                                  14.2922415
+                                                              ],
+                                                              [
+                                                                  120.9804921,
+                                                                  14.2922094
+                                                              ],
+                                                              [
+                                                                  120.9804692,
+                                                                  14.2921712
+                                                              ],
+                                                              [
+                                                                  120.980412,
+                                                                  14.2920981
+                                                              ],
+                                                              [
+                                                                  120.9802927,
+                                                                  14.2919583
+                                                              ],
+                                                              [
+                                                                  120.9802638,
+                                                                  14.2919127
+                                                              ],
+                                                              [
+                                                                  120.9802349,
+                                                                  14.2918616
+                                                              ],
+                                                              [
+                                                                  120.9802115,
+                                                                  14.2918066
+                                                              ],
+                                                              [
+                                                                  120.9801974,
+                                                                  14.2917436
+                                                              ],
+                                                              [
+                                                                  120.9801945,
+                                                                  14.2916888
+                                                              ],
+                                                              [
+                                                                  120.9802019,
+                                                                  14.2916426
+                                                              ],
+                                                              [
+                                                                  120.9802185,
+                                                                  14.2915889
+                                                              ],
+                                                              [
+                                                                  120.9802442,
+                                                                  14.2915414
+                                                              ],
+                                                              [
+                                                                  120.9802806,
+                                                                  14.2914955
+                                                              ],
+                                                              [
+                                                                  120.9803904,
+                                                                  14.2913806
+                                                              ],
+                                                              [
+                                                                  120.9804318,
+                                                                  14.2913293
+                                                              ],
+                                                              [
+                                                                  120.9804695,
+                                                                  14.2912692
+                                                              ],
+                                                              [
+                                                                  120.9804919,
+                                                                  14.2912053
+                                                              ],
+                                                              [
+                                                                  120.9805043,
+                                                                  14.2911403
+                                                              ],
+                                                              [
+                                                                  120.9805076,
+                                                                  14.2910708
+                                                              ],
+                                                              [
+                                                                  120.9805013,
+                                                                  14.2910106
+                                                              ],
+                                                              [
+                                                                  120.9804969,
+                                                                  14.2909899
+                                                              ],
+                                                              [
+                                                                  120.9804031,
+                                                                  14.2905547
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  580960297,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/580960297"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9811779,
+                                                                  14.2996239
+                                                              ],
+                                                              [
+                                                                  120.9804542,
+                                                                  14.3000358
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  891693760,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/891693760"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9813893,
+                                                                  14.2994658
+                                                              ],
+                                                              [
+                                                                  120.9813698,
+                                                                  14.2994919
+                                                              ],
+                                                              [
+                                                                  120.9813409,
+                                                                  14.2995197
+                                                              ],
+                                                              [
+                                                                  120.9813008,
+                                                                  14.29955
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  891693761,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/891693761"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.981301,
+                                                                  14.2994538
+                                                              ],
+                                                              [
+                                                                  120.9813253,
+                                                                  14.2994121
+                                                              ],
+                                                              [
+                                                                  120.9813341,
+                                                                  14.2993883
+                                                              ],
+                                                              [
+                                                                  120.9813394,
+                                                                  14.299363
+                                                              ],
+                                                              [
+                                                                  120.9813436,
+                                                                  14.2993208
+                                                              ],
+                                                              [
+                                                                  120.9813433,
+                                                                  14.2992719
+                                                              ],
+                                                              [
+                                                                  120.9813405,
+                                                                  14.2992254
+                                                              ],
+                                                              [
+                                                                  120.9813051,
+                                                                  14.2988514
+                                                              ],
+                                                              [
+                                                                  120.9812906,
+                                                                  14.2987263
+                                                              ],
+                                                              [
+                                                                  120.9812786,
+                                                                  14.2986514
+                                                              ],
+                                                              [
+                                                                  120.98126,
+                                                                  14.298572
+                                                              ],
+                                                              [
+                                                                  120.981232,
+                                                                  14.2985005
+                                                              ],
+                                                              [
+                                                                  120.9811904,
+                                                                  14.2984155
+                                                              ],
+                                                              [
+                                                                  120.9811491,
+                                                                  14.2983421
+                                                              ],
+                                                              [
+                                                                  120.9810875,
+                                                                  14.2982427
+                                                              ],
+                                                              [
+                                                                  120.9809792,
+                                                                  14.2980825
+                                                              ],
+                                                              [
+                                                                  120.9805689,
+                                                                  14.2975301
+                                                              ],
+                                                              [
+                                                                  120.9802918,
+                                                                  14.2971767
+                                                              ],
+                                                              [
+                                                                  120.9799866,
+                                                                  14.2968026
+                                                              ],
+                                                              [
+                                                                  120.9799616,
+                                                                  14.2967685
+                                                              ],
+                                                              [
+                                                                  120.9799334,
+                                                                  14.2967292
+                                                              ],
+                                                              [
+                                                                  120.9795335,
+                                                                  14.2960992
+                                                              ],
+                                                              [
+                                                                  120.9795055,
+                                                                  14.2960482
+                                                              ],
+                                                              [
+                                                                  120.9794816,
+                                                                  14.2959909
+                                                              ],
+                                                              [
+                                                                  120.9794617,
+                                                                  14.2959212
+                                                              ],
+                                                              [
+                                                                  120.9794515,
+                                                                  14.2958623
+                                                              ],
+                                                              [
+                                                                  120.9794488,
+                                                                  14.2958075
+                                                              ],
+                                                              [
+                                                                  120.9794473,
+                                                                  14.2957536
+                                                              ],
+                                                              [
+                                                                  120.9794487,
+                                                                  14.2957043
+                                                              ],
+                                                              [
+                                                                  120.9794556,
+                                                                  14.2956605
+                                                              ],
+                                                              [
+                                                                  120.9794685,
+                                                                  14.295613
+                                                              ],
+                                                              [
+                                                                  120.9794858,
+                                                                  14.2955726
+                                                              ],
+                                                              [
+                                                                  120.9795118,
+                                                                  14.2955275
+                                                              ],
+                                                              [
+                                                                  120.9795484,
+                                                                  14.2954884
+                                                              ],
+                                                              [
+                                                                  120.9795869,
+                                                                  14.2954567
+                                                              ],
+                                                              [
+                                                                  120.979725,
+                                                                  14.2953538
+                                                              ],
+                                                              [
+                                                                  120.9799763,
+                                                                  14.2951863
+                                                              ],
+                                                              [
+                                                                  120.9803433,
+                                                                  14.2949723
+                                                              ],
+                                                              [
+                                                                  120.9805922,
+                                                                  14.2948086
+                                                              ],
+                                                              [
+                                                                  120.9808141,
+                                                                  14.2946547
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1036778224,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1036778224"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9811373,
+                                                                  14.2995569
+                                                              ],
+                                                              [
+                                                                  120.9812143,
+                                                                  14.2995133
+                                                              ],
+                                                              [
+                                                                  120.9812623,
+                                                                  14.2994819
+                                                              ],
+                                                              [
+                                                                  120.981301,
+                                                                  14.2994538
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1036778227,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1036778227"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9804084,
+                                                                  14.2999603
+                                                              ],
+                                                              [
+                                                                  120.9811373,
+                                                                  14.2995569
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1088187919,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "tertiary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1088187919"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9812844,
+                                                                  14.2939969
+                                                              ],
+                                                              [
+                                                                  120.9811911,
+                                                                  14.2943058
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1123503293,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1123503293"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9811911,
+                                                                  14.2943058
+                                                              ],
+                                                              [
+                                                                  120.9811609,
+                                                                  14.2943844
+                                                              ],
+                                                              [
+                                                                  120.9811296,
+                                                                  14.2944464
+                                                              ],
+                                                              [
+                                                                  120.9810865,
+                                                                  14.29451
+                                                              ],
+                                                              [
+                                                                  120.9810262,
+                                                                  14.294587
+                                                              ],
+                                                              [
+                                                                  120.9809655,
+                                                                  14.2946595
+                                                              ],
+                                                              [
+                                                                  120.9809096,
+                                                                  14.2947059
+                                                              ],
+                                                              [
+                                                                  120.9808361,
+                                                                  14.2947597
+                                                              ],
+                                                              [
+                                                                  120.9803806,
+                                                                  14.2950474
+                                                              ],
+                                                              [
+                                                                  120.9800142,
+                                                                  14.2952623
+                                                              ],
+                                                              [
+                                                                  120.9796616,
+                                                                  14.2955071
+                                                              ],
+                                                              [
+                                                                  120.9796155,
+                                                                  14.295542
+                                                              ],
+                                                              [
+                                                                  120.9795941,
+                                                                  14.2955634
+                                                              ],
+                                                              [
+                                                                  120.9795767,
+                                                                  14.295586
+                                                              ],
+                                                              [
+                                                                  120.9795615,
+                                                                  14.2956146
+                                                              ],
+                                                              [
+                                                                  120.9795522,
+                                                                  14.2956419
+                                                              ],
+                                                              [
+                                                                  120.9795443,
+                                                                  14.2956762
+                                                              ],
+                                                              [
+                                                                  120.9795392,
+                                                                  14.2957054
+                                                              ],
+                                                              [
+                                                                  120.9795371,
+                                                                  14.2957402
+                                                              ],
+                                                              [
+                                                                  120.9795364,
+                                                                  14.2957768
+                                                              ],
+                                                              [
+                                                                  120.9795382,
+                                                                  14.2958473
+                                                              ],
+                                                              [
+                                                                  120.9795429,
+                                                                  14.2958788
+                                                              ],
+                                                              [
+                                                                  120.979549,
+                                                                  14.2959154
+                                                              ],
+                                                              [
+                                                                  120.9795612,
+                                                                  14.2959613
+                                                              ],
+                                                              [
+                                                                  120.9795789,
+                                                                  14.2960072
+                                                              ],
+                                                              [
+                                                                  120.9795969,
+                                                                  14.2960436
+                                                              ],
+                                                              [
+                                                                  120.9796175,
+                                                                  14.2960773
+                                                              ],
+                                                              [
+                                                                  120.9799698,
+                                                                  14.2966347
+                                                              ],
+                                                              [
+                                                                  120.9800081,
+                                                                  14.2966913
+                                                              ],
+                                                              [
+                                                                  120.9800464,
+                                                                  14.2967472
+                                                              ],
+                                                              [
+                                                                  120.9803362,
+                                                                  14.2971052
+                                                              ],
+                                                              [
+                                                                  120.9806246,
+                                                                  14.2974651
+                                                              ],
+                                                              [
+                                                                  120.9810465,
+                                                                  14.298035
+                                                              ],
+                                                              [
+                                                                  120.9811062,
+                                                                  14.2981249
+                                                              ],
+                                                              [
+                                                                  120.9811679,
+                                                                  14.2982205
+                                                              ],
+                                                              [
+                                                                  120.9812352,
+                                                                  14.2983343
+                                                              ],
+                                                              [
+                                                                  120.9812779,
+                                                                  14.2984064
+                                                              ],
+                                                              [
+                                                                  120.981309,
+                                                                  14.2984648
+                                                              ],
+                                                              [
+                                                                  120.981339,
+                                                                  14.2985406
+                                                              ],
+                                                              [
+                                                                  120.9813583,
+                                                                  14.2986116
+                                                              ],
+                                                              [
+                                                                  120.9813729,
+                                                                  14.2987128
+                                                              ],
+                                                              [
+                                                                  120.9813886,
+                                                                  14.2988515
+                                                              ],
+                                                              [
+                                                                  120.9814217,
+                                                                  14.2992756
+                                                              ],
+                                                              [
+                                                                  120.9814221,
+                                                                  14.2993177
+                                                              ],
+                                                              [
+                                                                  120.9814214,
+                                                                  14.2993577
+                                                              ],
+                                                              [
+                                                                  120.9814168,
+                                                                  14.2993951
+                                                              ],
+                                                              [
+                                                                  120.9814094,
+                                                                  14.2994237
+                                                              ],
+                                                              [
+                                                                  120.9813996,
+                                                                  14.2994468
+                                                              ],
+                                                              [
+                                                                  120.9813893,
+                                                                  14.2994658
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1123503294,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "tertiary_link",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1123503294"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9810234,
+                                                                  14.2943671
+                                                              ],
+                                                              [
+                                                                  120.9811911,
+                                                                  14.2943058
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1304628925,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1304628925"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9813008,
+                                                                  14.29955
+                                                              ],
+                                                              [
+                                                                  120.9811779,
+                                                                  14.2996239
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1304628927,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "secondary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1304628927"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.981301,
+                                                                  14.2994538
+                                                              ],
+                                                              [
+                                                                  120.9813893,
+                                                                  14.2994658
+                                                              ]
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "study_road_key":  "congressional-paliparan",
+                                            "osm_way_id":  1466399984,
+                                            "osm_name":  "Congressional Avenue",
+                                            "highway":  "tertiary",
+                                            "ref":  null,
+                                            "source_area":  "Paliparan 1",
+                                            "source":  "https://www.openstreetmap.org/way/1466399984"
+                                        },
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  120.9808141,
+                                                                  14.2946547
+                                                              ],
+                                                              [
+                                                                  120.980888,
+                                                                  14.2945799
+                                                              ],
+                                                              [
+                                                                  120.9809416,
+                                                                  14.2945145
+                                                              ],
+                                                              [
+                                                                  120.9809906,
+                                                                  14.2944381
+                                                              ],
+                                                              [
+                                                                  120.9810234,
+                                                                  14.2943671
+                                                              ]
+                                                          ]
+                                      }
+                     }
+                 ]
+}
